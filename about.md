@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Located in Israel with offices in central Tel Aviv, we are a boutique software company, happily battling our customer's hardest problems. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We specialize in: 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+1. Reverse Engineering: x86, ARM and embedded systems. 
+1. Operating systems internals, hooking and injections. 
+1. Low-level development (firmware, drivers, etc.).
+1. Cryptography and Blockchain technologies.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Please drop us an email if we can help. 
